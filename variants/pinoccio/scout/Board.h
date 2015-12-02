@@ -1,0 +1,3 @@
+#define COSA_CUSTOM_BOARD
+#define PINOCCIO_SCOUT
+
