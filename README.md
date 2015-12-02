@@ -4,7 +4,7 @@ Cosa custom board definitions for the Pinoccio Scout.
 
 # Install
 
-To use the board definitions you must download and install the
+To use these board definitions you must download and install the
 [Arduino IDE] (http://www.arduino.cc/en/Main/Software) (or GCC AVR
 toolchain) and [Cosa] (https://github.com/mikaelpatel/Cosa).
 
