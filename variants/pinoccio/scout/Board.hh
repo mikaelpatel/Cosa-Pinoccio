@@ -18,8 +18,8 @@
  * This file is part of the Arduino Che Cosa project.
  */
 
-#ifndef PINOCCIO_SCOUT_HH
-#define PINOCCIO_SCOUT_HH
+#ifndef COSA_PINOCCIO_SCOUT_HH
+#define COSA_PINOCCIO_SCOUT_HH
 
 /* This board is based on ATmega256RFR */
 #define BOARD_ATMEGA256RFR2
